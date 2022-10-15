@@ -9,3 +9,4 @@
 <h3 align="left">Geplante Funktionen</h3>
 
  - MySQL Anbindung um auch vorherige Essenspläne in der Generierung zu berücksichtigen.
+ - Vielleicht ein kleines UI, um das ganze ein wenig anschaulicher als nur die Konsole zu gestalten.
