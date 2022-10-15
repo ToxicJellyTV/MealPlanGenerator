@@ -1,0 +1,8 @@
+C:\Users\Fernando\source\repos\MealPlanGenerator\MealPlanGenerator\bin\Debug\MealPlanGenerator.exe.config
+C:\Users\Fernando\source\repos\MealPlanGenerator\MealPlanGenerator\bin\Debug\MealPlanGenerator.exe
+C:\Users\Fernando\source\repos\MealPlanGenerator\MealPlanGenerator\bin\Debug\MealPlanGenerator.pdb
+C:\Users\Fernando\source\repos\MealPlanGenerator\MealPlanGenerator\obj\Debug\MealPlanGenerator.csproj.AssemblyReference.cache
+C:\Users\Fernando\source\repos\MealPlanGenerator\MealPlanGenerator\obj\Debug\MealPlanGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fernando\source\repos\MealPlanGenerator\MealPlanGenerator\obj\Debug\MealPlanGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\source\repos\MealPlanGenerator\MealPlanGenerator\obj\Debug\MealPlanGenerator.exe
+C:\Users\Fernando\source\repos\MealPlanGenerator\MealPlanGenerator\obj\Debug\MealPlanGenerator.pdb
